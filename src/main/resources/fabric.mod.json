@@ -1,0 +1,20 @@
+{
+  "schemaVersion": 1,
+  "id": "dedsafio",
+  "version": "${version}",
+  "name": "Dedsafio Space",
+  "description": "Dos supernovas, búnker asignable, nave espacial y la dimensión Gleba.",
+  "authors": ["Dedsafio Space contributors"],
+  "license": "All-Rights-Reserved",
+  "environment": "*",
+  "entrypoints": {
+    "main": ["com.dedsafio.space.DedsafioMod"],
+    "client": ["com.dedsafio.space.client.DedsafioClient"]
+  },
+  "depends": {
+    "fabricloader": ">=0.15.0",
+    "minecraft": "~1.20.1",
+    "java": ">=17",
+    "fabric-api": "*"
+  }
+}

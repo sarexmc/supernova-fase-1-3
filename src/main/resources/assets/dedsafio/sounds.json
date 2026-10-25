@@ -1,0 +1,74 @@
+{
+  "supernova.star_appear": {
+    "sounds": [
+      {
+        "name": "dedsafio:supernova/star_appear",
+        "stream": false
+      }
+    ],
+    "subtitle": "subtitles.dedsafio.supernova.star_appear"
+  },
+  "supernova.energy_charge": {
+    "sounds": [
+      {
+        "name": "dedsafio:supernova/energy_charge",
+        "stream": true
+      }
+    ],
+    "subtitle": "subtitles.dedsafio.supernova.energy_charge"
+  },
+  "supernova.explosion_1": {
+    "sounds": [
+      {
+        "name": "dedsafio:supernova/explosion_1",
+        "stream": false
+      }
+    ],
+    "subtitle": "subtitles.dedsafio.supernova.explosion_1"
+  },
+  "supernova.shockwave": {
+    "sounds": [
+      {
+        "name": "dedsafio:supernova/shockwave",
+        "stream": false
+      }
+    ],
+    "subtitle": "subtitles.dedsafio.supernova.shockwave"
+  },
+  "supernova.aftermath": {
+    "sounds": [
+      {
+        "name": "dedsafio:supernova/aftermath",
+        "stream": true
+      }
+    ],
+    "subtitle": "subtitles.dedsafio.supernova.aftermath"
+  },
+  "supernova.explosion_2": {
+    "sounds": [
+      {
+        "name": "dedsafio:supernova/explosion_2",
+        "stream": false
+      }
+    ],
+    "subtitle": "subtitles.dedsafio.supernova.explosion_2"
+  },
+  "supernova.flash": {
+    "sounds": [
+      {
+        "name": "dedsafio:supernova/flash",
+        "stream": false
+      }
+    ],
+    "subtitle": "subtitles.dedsafio.supernova.flash"
+  },
+  "supernova.energy_beam": {
+    "sounds": [
+      {
+        "name": "dedsafio:supernova/energy_beam",
+        "stream": false
+      }
+    ],
+    "subtitle": "subtitles.dedsafio.supernova.energy_beam"
+  }
+}
